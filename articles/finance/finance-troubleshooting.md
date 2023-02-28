@@ -35,7 +35,6 @@ Budgeting
 
 - [Position budgeting troubleshooting](budgeting/position-budgeting-set-up-issues.md)
 
-
 Cash and bank management
 
 - [Troubleshoot cash flow forecasting setup](cash-bank-management/cash-flow-forecasting-tsg.md)
